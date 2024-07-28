@@ -1,2 +1,2 @@
-# ecommerce-sales-data-dashboard
-Analyzed ecommerce sales data. created a interactive  dashboard using Power Bi
+# ecommerce-sales-data
+Analyzed ecommerce sales data. created a interactive  Dashboard using Power Bi
